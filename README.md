@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimeshWijesuriya
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Faculty of science university of colombo
+- 🌱 I’m currently learning Faculty of Science University of Colombo
 
 
 <!---
