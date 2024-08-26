@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Nimesh Wijesuriya</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshwijesuriya&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshwijesuriya" /> </p>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeshwijesuriya" alt="nimeshwijesuriya" /></a> </p>
 
-- 🔭 I’m currently working on **Dialog Axiata**
+- 🔭 I’m worked at **DataDisca (Pvt) Limited, Melbourne**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nimesh-wijesuriya-b79825220/](https://www.linkedin.com/in/nimesh-wijesuriya-b79825220/)
+- 🌱 I’m currently learning **Deep Learning For Computer Vision**
+
+- 🔭 I’m worked at **Dialog Axiata**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NimeshWijesuriya?tab=repositories](https://github.com/NimeshWijesuriya?tab=repositories)
+
+- 💬 Ask me about **ML**
 
 - 📫 How to reach me **nimeshwijesuriya98@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/NimeshWijesuriya/Sample-Data-set/blob/main/Nimesh%20Wijesuriya_Resume.pdf](https://github.com/NimeshWijesuriya/Sample-Data-set/blob/main/Nimesh%20Wijesuriya_Resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nimesh-wijesuriya-b79825220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesh-wijesuriya-b79825220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimesh-wijesuriya-b79825220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-wijesuriya-b79825220/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshwijesuriya&show_icons=true&locale=en&layout=compact" alt="nimeshwijesuriya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimeshwijesuriya&show_icons=true&locale=en" alt="nimeshwijesuriya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshwijesuriya&" alt="nimeshwijesuriya" /></p>
+
