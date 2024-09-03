@@ -5,7 +5,7 @@
 
 - 🔭 I’m worked at **DataDisca (Pvt) Limited, Melbourne**
 
-- 🌱 I’m currently learning **Deep Learning For Computer Vision**
+- 🌱 I’m currently learning **Deep Learning For Computer Vision** and **Fine Tune LLM**
 
 - 🔭 I’m worked at **Dialog Axiata**
 
